@@ -1,0 +1,16 @@
+Giới thiệu:
+Tôi là Nguyễn Tấn Đạt, hiện đang học CNTT.
+Tôi là sinh viên năm 3
+Tôi thích tìm hiểu công nghệ mới.
+Tôi thường xuyên luyện tập kỹ năng lập trình.
+Tôi đang học tại DNC.
+
+Sở thích:
+1. Chơi game
+2. Chụp ảnh
+3. Du lịch
+
+Kỹ năng:
+1. C# cơ bản
+2. SQL
+3. Git và GitHub
