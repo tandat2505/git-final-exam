@@ -14,3 +14,10 @@ Kỹ năng:
 1. C# cơ bản
 2. SQL
 3. Git và GitHub
+
+Kế hoạch học tập:
+- Học Git mỗi ngày 30 phút.
+- Làm bài tập WinForms 2 buổi/tuần.
+- Học tiếng Đức 1h/ngày.
+- Luyện coding LeetCode 3 buổi/tuần.
+- Ôn tập đồ án cuối kỳ.
