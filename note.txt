@@ -1,3 +1,5 @@
 - Git giúp quản lý mã nguồn dễ dàng.
 - Học Git giúp tôi hiểu cách làm việc nhóm.
 - Git có nhiều lệnh thú vị để thực hành.
+- Tôi muốn học thêm về branch và merge.
+- Tôi sẽ luyện tập Git mỗi ngày.
