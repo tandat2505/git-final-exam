@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Giới thiệu:
-=======
 Hello, this is Nguyen Tan Dat
->>>>>>> feature-update
 
 Tôi là Nguyễn Tấn Đạt, hiện đang học CNTT.
 Tôi là sinh viên năm 3
