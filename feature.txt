@@ -1,0 +1,6 @@
+Mô tả tính năng mới:
+1. Thêm chức năng xuất dữ liệu ra file PDF.
+2. Hỗ trợ tìm kiếm nâng cao theo nhiều tiêu chí.
+3. Cho phép đăng nhập bằng tài khoản Google.
+4. Tích hợp API gửi email thông báo cho người dùng.
+5. Cải thiện tốc độ xử lý dữ liệu trên hệ thống.
